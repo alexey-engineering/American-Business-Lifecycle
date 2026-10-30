@@ -1,0 +1,4 @@
+covid_period,first_bds_year,last_bds_year,years_in_period,observation_type,observation_code,mean_annual_employment_growth_rate_pct,denominator_weighted_annual_net_rate_pct,job_creation_sum,job_destruction_sum,net_employment_change_sum,mean_annual_job_creation,mean_annual_job_destruction,mean_annual_net_employment_change,mean_annual_employment
+Pre-COVID (2015–2020),2015,2020,6,national,US,1.6928333333333334,1.6787796757194824,97480076,84654110,12825966,16246679.333333334,14109018.333333334,2137661.0,128405502.33333333
+COVID shock (2021),2021,2021,1,national,US,-4.245,-4.244967089601994,15069167,20587364,-5518197,15069167.0,20587364.0,-5518197.0,127222136.0
+Rebound (2022–2023),2022,2023,2,national,US,3.979,3.950958229182354,40103104,29579343,10523761,20051552.0,14789671.5,5261880.5,135802790.5

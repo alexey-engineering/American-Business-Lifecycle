@@ -1,0 +1,10 @@
+year,metric,bds_value_jobs,bls_bed_value_thousands,bls_bed_value_jobs_rounded,difference_bds_minus_bls_jobs,source_url,comparison_note
+2021,job_creation,15069167,12522,12522000,2547167,https://www.bls.gov/web/cewbd/anntab1_1.txt,"BED total private; March-to-March; published in 000s. Coverage, production methods and revisions differ from BDS."
+2021,job_destruction,20587364,18001,18001000,2586364,https://www.bls.gov/web/cewbd/anntab1_1.txt,"BED total private; March-to-March; published in 000s. Coverage, production methods and revisions differ from BDS."
+2021,net_employment_change,-5518197,-5479,-5479000,-39197,https://www.bls.gov/web/cewbd/anntab1_1.txt,"BED total private; March-to-March; published in 000s. Coverage, production methods and revisions differ from BDS."
+2022,job_creation,21652177,17911,17911000,3741177,https://www.bls.gov/web/cewbd/anntab1_1.txt,"BED total private; March-to-March; published in 000s. Coverage, production methods and revisions differ from BDS."
+2022,job_destruction,14567755,10982,10982000,3585755,https://www.bls.gov/web/cewbd/anntab1_1.txt,"BED total private; March-to-March; published in 000s. Coverage, production methods and revisions differ from BDS."
+2022,net_employment_change,7084422,6929,6929000,155422,https://www.bls.gov/web/cewbd/anntab1_1.txt,"BED total private; March-to-March; published in 000s. Coverage, production methods and revisions differ from BDS."
+2023,job_creation,18450927,16008,16008000,2442927,https://www.bls.gov/web/cewbd/anntab1_1.txt,"BED total private; March-to-March; published in 000s. Coverage, production methods and revisions differ from BDS."
+2023,job_destruction,15011588,12669,12669000,2342588,https://www.bls.gov/web/cewbd/anntab1_1.txt,"BED total private; March-to-March; published in 000s. Coverage, production methods and revisions differ from BDS."
+2023,net_employment_change,3439339,3339,3339000,100339,https://www.bls.gov/web/cewbd/anntab1_1.txt,"BED total private; March-to-March; published in 000s. Coverage, production methods and revisions differ from BDS."

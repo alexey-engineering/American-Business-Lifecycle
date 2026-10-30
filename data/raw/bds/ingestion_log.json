@@ -1,0 +1,78 @@
+{
+  "release_version": "2023 BDS",
+  "source_release_date": "2025-09-25",
+  "validated_at_utc": "2026-10-30T05:30:04.858315+00:00",
+  "sources": [
+    {
+      "dataset": "economy",
+      "url": "https://www2.census.gov/programs-surveys/bds/tables/time-series/2023/bds2023.csv",
+      "file": "data/raw/bds/bds2023_economy.csv",
+      "bytes": 9038,
+      "rows": 46,
+      "columns": 25,
+      "sha256": "1278adb3a89d6d16950f8bdd0097de2dd9545934bd3f969bb86fa6057b430978",
+      "expected_sha256": "1278adb3a89d6d16950f8bdd0097de2dd9545934bd3f969bb86fa6057b430978",
+      "operation": "downloaded",
+      "downloaded_at_utc": "2026-10-30T04:39:52.679272Z",
+      "downloaded_at_local_date": "2026-10-29",
+      "downloaded_timezone": "America/Monterrey"
+    },
+    {
+      "dataset": "firm_age",
+      "url": "https://www2.census.gov/programs-surveys/bds/tables/time-series/2023/bds2023_fa.csv",
+      "file": "data/raw/bds/bds2023_firm_age.csv",
+      "bytes": 86502,
+      "rows": 552,
+      "columns": 26,
+      "sha256": "52a36e61791aacfaedc0466a4d9b8c1c94a8b0dfbe05e967840119bf6d5695a1",
+      "expected_sha256": "52a36e61791aacfaedc0466a4d9b8c1c94a8b0dfbe05e967840119bf6d5695a1",
+      "operation": "downloaded",
+      "downloaded_at_utc": "2026-10-30T04:39:53.891979Z",
+      "downloaded_at_local_date": "2026-10-29",
+      "downloaded_timezone": "America/Monterrey"
+    },
+    {
+      "dataset": "firm_size",
+      "url": "https://www2.census.gov/programs-surveys/bds/tables/time-series/2023/bds2023_fz.csv",
+      "file": "data/raw/bds/bds2023_firm_size.csv",
+      "bytes": 81194,
+      "rows": 460,
+      "columns": 26,
+      "sha256": "403bf76c2b8725993ed0bb657801ac6b5d78053d60fed490af8101d154b6729f",
+      "expected_sha256": "403bf76c2b8725993ed0bb657801ac6b5d78053d60fed490af8101d154b6729f",
+      "operation": "downloaded",
+      "downloaded_at_utc": "2026-10-30T04:39:54.069183Z",
+      "downloaded_at_local_date": "2026-10-29",
+      "downloaded_timezone": "America/Monterrey"
+    },
+    {
+      "dataset": "state",
+      "url": "https://www2.census.gov/programs-surveys/bds/tables/time-series/2023/bds2023_st.csv",
+      "file": "data/raw/bds/bds2023_state.csv",
+      "bytes": 377485,
+      "rows": 2346,
+      "columns": 26,
+      "sha256": "9e0c86610ee685c2f7c8c4dec60bd213177cd8644fe539e5f66457efc8ef603c",
+      "expected_sha256": "9e0c86610ee685c2f7c8c4dec60bd213177cd8644fe539e5f66457efc8ef603c",
+      "operation": "downloaded",
+      "downloaded_at_utc": "2026-10-30T04:39:53.420123Z",
+      "downloaded_at_local_date": "2026-10-29",
+      "downloaded_timezone": "America/Monterrey"
+    },
+    {
+      "dataset": "sector",
+      "url": "https://www2.census.gov/programs-surveys/bds/tables/time-series/2023/bds2023_sec.csv",
+      "file": "data/raw/bds/bds2023_sector.csv",
+      "bytes": 146764,
+      "rows": 874,
+      "columns": 26,
+      "sha256": "758a263b166167e9557d4fc4ba8cd60229c5e05d341214b7494982c4764cf224",
+      "expected_sha256": "758a263b166167e9557d4fc4ba8cd60229c5e05d341214b7494982c4764cf224",
+      "operation": "downloaded",
+      "downloaded_at_utc": "2026-10-30T04:39:53.695234Z",
+      "downloaded_at_local_date": "2026-10-29",
+      "downloaded_timezone": "America/Monterrey"
+    }
+  ],
+  "timezone_for_download_dates": "America/Monterrey"
+}

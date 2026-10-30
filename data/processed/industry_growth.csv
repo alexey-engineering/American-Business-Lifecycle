@@ -1,0 +1,11 @@
+year,naics_sector,industry,employment,net_employment_change,employment_growth_rate_pct,net_change_rank,contribution_to_national_change_pct
+2023,62,Health care and social assistance,21997571,881400,4.089,1,25.627017284425875
+2023,72,Accommodation and food services,14565278,791588,5.586,2,23.015701563585328
+2023,54,"Professional, scientific, and technical services",10364674,249750,2.438,3,7.2615697376734305
+2023,23,Construction,7614745,242798,3.24,4,7.05943787454508
+2023,81,Other services (except public administration),5677219,202396,3.63,5,5.884735409914521
+2023,71,"Arts, entertainment, and recreation",2471289,187414,7.884,6,5.449128451717031
+2023,61,Educational services,3782935,160169,4.326,7,4.656970423677341
+2023,31-33,Manufacturing,12293106,154526,1.265,8,4.492898199334232
+2023,48-49,Transportation and warehousing,6450641,128978,2.02,9,3.7500810475501254
+2023,52,Finance and insurance,6912028,126469,1.847,10,3.6771309835988837

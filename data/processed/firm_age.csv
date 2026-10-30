@@ -1,0 +1,5 @@
+year,comparison_group,employment,job_creation,job_destruction,net_employment_change,group_type
+2023,Left-censored (mature by lower bound),52332869,5177489,4158822,1018667,disjoint category
+2023,"Mature (6+, known age)",70396171,8392821,8447256,-54435,disjoint category
+2023,Young (0–5),14733404,4897739,2413709,2484030,disjoint category
+2023,"Mature extended (6+, left-censored included)",122729040,13570310,12606078,964232,rollup; do not add to component groups
